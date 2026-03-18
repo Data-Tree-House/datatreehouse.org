@@ -22,8 +22,8 @@ mainSections = ["blog"]
 # contact form action
 contact_form_action = "https://airform.io/johan@datatreehouse.org" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "" # example: G-XXXXXXXXXX
-google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
+google_tag_manager = "G-FLTQQF51CN" # example: G-XXXXXXXXXX
+google_adsense = "ca-pub-2319436899330467"     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = "<script defer src=\"https://umami.datatreehouse.org/script.js\" data-website-id=\"f7114c0e-47e2-485a-9254-8da4f2366811\"></script>"
 # copyright
