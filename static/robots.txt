@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://datatreehouse.org/sitemap.xml
