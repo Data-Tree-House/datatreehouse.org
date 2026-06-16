@@ -2,7 +2,7 @@
 title: "Loan Amortization Calculator"
 meta_title: "Interactive Loan Calculator"
 description: "Our first application: a loan amortization calculator with interactive visualizations using Python, Streamlit, and Plotly."
-date: 2024-03-18T10:00:00Z
+date: 2026-03-18T10:00:00Z
 image: "/images/thumbnails/loan-amortization.png"
 categories: ["Streamlit Apps"]
 author: "Johan"

@@ -68,11 +68,15 @@
             </div>
           </div>
           <!-- comments -->
-          {{ if site.Config.Services.Disqus.Shortname }}
-            <div class="mt-20">
-              {{ partial "disqus.html" . }}
-            </div>
-          {{ end }}
+          <div class="mt-20">
+            <script src="https://utteranc.es/client.js"
+                    repo="Data-Tree-House/datatreehouse.org"
+                    issue-term="pathname"
+                    theme="github-light"
+                    crossorigin="anonymous"
+                    async>
+            </script>
+          </div>
         </article>
       </div>
 
